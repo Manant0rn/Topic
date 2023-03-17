@@ -1,4 +1,4 @@
-Tutatiol MERN-STACK
+Tutatial MERN-STACK
 M - MongoDB
 E - Expressjs
 R - React
